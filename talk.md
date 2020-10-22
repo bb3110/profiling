@@ -14,7 +14,7 @@
 
 # Profiling
 
-BB1000 Programming in Python
+Computational Python
 KTH
 
 ---
